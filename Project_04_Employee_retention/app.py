@@ -4,9 +4,9 @@ import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 
-st.set_page_config(page_title="Employee Retention Prediction", page_icon="👨‍💼", layout="centered")
+st.set_page_config(page_title="Employee retention", page_icon="👨‍💼", layout="centered")
 
-st.title("👨‍💼 Employee Retention Prediction")
+st.title("👨‍💼 Employee retention")
 st.write("Predict whether an employee is likely to leave the company using Logistic Regression.")
 
 @st.cache_data
@@ -57,7 +57,7 @@ promotion_last_5years = st.selectbox(
 
 salary = st.selectbox("Salary Level", options=["low", "medium", "high"])
 
-if st.button("Predict Employee Retention"):
+if st.button("Predict Employee retention"):
     input_data = pd.DataFrame([{
         "satisfaction_level": satisfaction_level,
         "average_montly_hours": average_montly_hours,

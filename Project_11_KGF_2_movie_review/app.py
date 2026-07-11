@@ -110,4 +110,4 @@ st.divider()
 
 st.caption(
     "Built using Streamlit | Hugging Face Transformers | DistilBERT"
-)  this is my app.py file add frontend image. 
+) 

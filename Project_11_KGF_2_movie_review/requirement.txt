@@ -1,7 +1,9 @@
-streamlit
-transformers
-torch
-pandas
-sentencepiece
-sacremoses
-accelerate
+streamlit==1.46.1
+transformers==4.53.0
+torch==2.7.1
+pandas==2.3.0
+numpy==2.3.1
+sentencepiece==0.2.0
+sacremoses==0.1.1
+accelerate==1.8.1
+tokenizers==0.21.2

@@ -1,0 +1,8 @@
+Canada per capita income link = https://projectaimlgenerative-ai-ph8yl2wmsdcdzafmyowvmz.streamlit.app
+Outlier_percentile link =
+Employee retention link = https://projectaimlgenerative-ai-ztzonye46nbydouahxrskt.streamlit.app
+kmean link = https://projectaimlgenerative-ai-glsmnucs7vgfqolyz8nvjj.streamlit.app
+KNN deployment link =
+health insurance link = https://projectaimlgenerative-ai-iv4ldkuo3tzwz7egjzuuua.streamlit.app
+KGF movie link = https://projectaimlgenerative-ai-ba5xavt4sncf34aqpcvyov.streamlit.app
+house price prediction link = https://house-price-prediction-project-yyuu8nohsu2ymyzyvnshjx.streamlit.app

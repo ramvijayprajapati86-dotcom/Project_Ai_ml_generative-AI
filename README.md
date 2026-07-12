@@ -1,6 +1,6 @@
 Canada per capita income link = https://projectaimlgenerative-ai-ph8yl2wmsdcdzafmyowvmz.streamlit.app
 
-Outlier_percentile link =
+Outlier_percentile link = https://projectaimlgenerative-ai-5luczswmnty3k9kzsfvk4z.streamlit.app
 
 Employee retention link = https://projectaimlgenerative-ai-ztzonye46nbydouahxrskt.streamlit.app
 

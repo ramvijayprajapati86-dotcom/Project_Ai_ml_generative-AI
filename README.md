@@ -13,3 +13,5 @@ health insurance link = https://projectaimlgenerative-ai-iv4ldkuo3tzwz7egjzuuua.
 KGF movie link = https://projectaimlgenerative-ai-ba5xavt4sncf34aqpcvyov.streamlit.app
 
 house price prediction link = https://house-price-prediction-project-yyuu8nohsu2ymyzyvnshjx.streamlit.app
+
+Male_Female_classifier = https://malefemaleclassifier-iqc5envzinmvdv3z464xrh.streamlit.app
